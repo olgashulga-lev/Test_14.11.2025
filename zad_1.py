@@ -55,4 +55,3 @@ for j in range(0, n - 1):
         ind2 = j + 2
 print(ind1)
 print(ind2)
-print(ind2)
