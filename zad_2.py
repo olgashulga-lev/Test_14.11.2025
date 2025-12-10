@@ -34,6 +34,7 @@ def test_task2():
     else:
         print(f"Ошибка, должно быть [0, 0, 0, 1, -1], а у вас {task2([0, 0, 0, 1, -1])}")
 
+
 test_task2()
 print(task2([-6, 2, 0]))
 a = list(map(int, input().split()))
